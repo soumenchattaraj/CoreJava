@@ -24,11 +24,4 @@
   	  	<load-on-startup>1</load-on-startup>
   </servlet>
   
-  <servlet-mapping>
-  
-  	<servlet-name>DispatcherServlet</servlet-name>
-  	<url-pattern>*.s3</url-pattern>
-  	
-  </servlet-mapping>
-  
 </web-app>
