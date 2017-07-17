@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.web.Controller;
+
+/**
+ * @author Dev_PC
+ *
+ */
+public class DefaultHomeController {
+
+}
