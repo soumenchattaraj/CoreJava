@@ -10,6 +10,9 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list> -->
   
+  <listener>
+  		<listener-class></listener-class>
+  </listener>
   
   <servlet>
   
@@ -18,7 +21,7 @@
   		<init-param>
   		
   			<param-name>SpringConfig</param-name>
-  			<param-value>/WEB-INF/applicationContext.xml</param-value>	
+  			<param-value>/WEB-INF/springConfiguration.xml</param-value>	
   			
   		</init-param>
   	  	<load-on-startup>1</load-on-startup>
