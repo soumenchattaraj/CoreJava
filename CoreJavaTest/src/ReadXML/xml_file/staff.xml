@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+<staff id="1001">
+    <firstname>Soumen</firstname>
+    <lastname>Chattaraj</lastname>
+    <nickname>SC</nickname>
+    <salary>200000</salary>
+</staff>
+<staff id="2001">
+    <firstname>Asif</firstname>
+    <lastname>Amed</lastname>
+    <nickname>AA</nickname>
+    <salary>100000</salary>
+</staff>
+<asset id="69001">
+    <firstname>SS</firstname>
+    <lastname>SS</lastname>
+    <nickname>SS</nickname>
+    <salary>17000000</salary>
+</asset>
+</company>
