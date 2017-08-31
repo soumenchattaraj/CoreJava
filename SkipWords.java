@@ -46,7 +46,7 @@ public class SkipWords {
 				int i=0,count=0;
 				while((str2 = reader2.readLine())!=null)
 				{
-				
+					//## "\\s" because in regex it stands for white space.
 					String strArr[] = str2.split("\\s");
 					for(String forStr : strArr)
 					{
